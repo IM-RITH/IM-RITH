@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student at HUST<br>🌱 I’m currently learning Web and App Development<br>📫 How to reach me: sovanrithsrey@gmail.com
+🔭 I’m currently studying at HUST<br>🌱 I’m currently learning Web and App Development<br>📫 How to reach me: sovanrithsrey@gmail.com
 
 
 ## 🌐 Socials:
